@@ -1,0 +1,22 @@
+{
+  "name": "shorturl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swoozeki/url-shortener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swoozeki/url-shortener/issues"
+  },
+  "homepage": "https://github.com/Swoozeki/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
